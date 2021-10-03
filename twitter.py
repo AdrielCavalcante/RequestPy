@@ -2,6 +2,8 @@ import oauth2
 import json
 import urllib.parse
 
+# Preencha as strings abaixo com seus dados da conta Twitter para Devs
+
 apiKey = ''
 
 apiKeySecret = ''
