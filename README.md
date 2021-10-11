@@ -6,7 +6,7 @@
 ### Text editor used: ![VSCode](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## API's used:
-* ### [awesomeAPI](https://awesomeapi.com.br)
+* ### [awesomeAPI](https://docs.awesomeapi.com.br)
 * ### [openweathermap](https://api.openweathermap.org)
 * ### [pokeAPI](https://pokeapi.co)
 * ### [TwitterAPI](https://developer.twitter.com/en/docs/twitter-api)
